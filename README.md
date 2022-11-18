@@ -8,4 +8,4 @@ I have used various techniques in OpenCV and also emphasize the reasoning behind
 
 cmake ./ <br />
 make <br />
-./<workspace folder name>
+./<<workspace folder name>>
